@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/thalux",
+  "packageVersion": "0.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/thalux",
+  "usageRepository": "https://github.com/x12i-sdk/thalux",
+  "sourceRepository": "https://github.com/x12i-saas/thalux",
+  "sourceCommit": "0a178e7f1e5ed6dcb6669fbd4488b750dfa67d09",
+  "sourcePackageDirectory": "packages/thalux",
+  "example": {
+    "title": "Map a synthetic task into a business work item with provenance",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:43:03.427793+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "dc94993ddf85a6fa11cc1c3cbc4608aef68764bcc610f53a1d01f191b577ec3f",
+    "manifestSha256": "9dd8f116ffa9bdb5d126f2b32dfeeddd8f22ec638cc3d3d3beb72d26e309785c"
+  },
+  "validationFiles": {
+    "src/index.mjs": "dc94993ddf85a6fa11cc1c3cbc4608aef68764bcc610f53a1d01f191b577ec3f"
+  }
+}
